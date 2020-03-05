@@ -1,0 +1,10 @@
+node_modules
+node_modules_linux
+yarn*.log
+yarn.lock
+package.1.json
+public/authors.js.CLOUDANT
+deployment/deployment-minishift.yaml
+deployment/deployment-openshift.yaml
+deployment/kubernetes-openshift.yaml
+deployment/os4-deployment.yaml
