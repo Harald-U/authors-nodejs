@@ -17,9 +17,4 @@ A Cloudant instance can be created with ibm-scripts/create-cloudant.sh. It will
 * populate the database with our sample data (authors-nodejs/authordata.json)
 * set the correct values in local.env which is used by the deployment script for the authors service.
 
-## Deployment
-
-For Minikube execute `scripts/deploy-authors-nodejs.sh`
-
-For IBM Kubernetes Service (IKS) execute `iks-scripts/deploy-authors-nodejs.sh`
 
